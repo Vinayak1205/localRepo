@@ -1,4 +1,4 @@
-// Program to print this patter//
+// Program to print this pattern//
 //                  1
 //                  1 2
 //                  1 2 3
