@@ -12,8 +12,9 @@ int main()
 {
             int i,j,k,n=1,m;
 
-            for(k=1; k<=5; k--)
+            for(k=1; k<=5; k++)
             {
+
                 for(i=5; i>=k; i--)
                     printf(" ");
 
