@@ -1,3 +1,13 @@
+ 
+ //Program to print this Pattern//
+ //               *
+ //              ***
+ //             *****
+  //           *******
+   //         *********     
+
+
+
 #include <stdio.h>
 #include <conio.h>
 
