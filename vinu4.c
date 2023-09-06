@@ -41,11 +41,11 @@ int main()
                         m--;
                     }
 
-                    printf("\n");
-                    n++;
-
 
                 }
+
+                printf("\n");
+                n+=2;
 
             }
 
